@@ -1,0 +1,10 @@
+git clone https://....
+
+git add .
+git commit -m 'my commit'
+git push
+
+git checkout -b <new branch>
+git push -u <new branch>
+
+git pull
