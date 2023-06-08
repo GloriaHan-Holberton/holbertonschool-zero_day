@@ -1,4 +1,4 @@
-git clone https://....
+git clone https://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@github.com/GloriaHan-Holberton/holbertonschool-zero_day.git
 
 git add .
 git commit -m 'my commit'
